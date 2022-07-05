@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: 'Mukta', sans-serif;
+}
+.first-section{
+    text-align: center;
+    background:url(donation4.jpg);
+    box-shadow:inset 0 0 0 2000px rgba(5, 5, 5, 0.74);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding-top: 150px;
+    padding-bottom: 300px;
+    margin-bottom:20px ;
+    line-height: 30px;
+}
+.heading{
+    font-family: sans-serif;
+    color:white;
+    font-weight: 550;
+    font-size: 60px;
+}
+.para{
+    font-size: 25px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.link-btn{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(255, 71, 71);
+    padding: 10px 30px 10px 30px;
+    border-radius: 8px;
+}
+.second-sec-div{
+    text-align: center;
+    line-height: 20px;
+    margin-top: 100px;
+}
+.second-heading{
+    font-size: 50px;
+}
+.common-para{
+    font-size: 18px;
+    color:gray ;
+    margin-bottom: 50px;
+}
+
+.flexible-div{
+    display: flex;
+    justify-content: center;
+}
+
+.child-flexible-div{
+    font-size: 25px;
+    background-color: rgba(216, 212, 212, 0.253);
+    padding: 5px 30px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    border-radius: 5px;
+
+}
+.second-amount{
+    color: rgba(255, 72, 0, 0.929);
+    background-color: rgba(255, 72, 0, 0.152);
+    border: 3px solid rgba(255, 30, 0, 0.809);
+}
+
+.input-div{
+    text-align: center;
+}
+
+input{
+    font-size: 20px;
+    text-align: center;
+    border: none;
+}
+hr{
+    width: 60%;
+    margin-bottom: 40px;
+}
+.item{
+    margin-left: 30px;
+    width: 250px;
+    padding: 30px 50px 0px;
+    border-radius:5px ;
+    text-align: justify;
+}
+h3{
+    font-size: 25px;
+}
+#first{
+    background-color: rgba(135, 206, 250, 0.134);
+}
+#second{
+    background-color: rgba(216, 112, 147, 0.137);
+}
+#third{
+    background-color: rgba(255, 166, 0, 0.122);
+}
+
+
+
+
+
+
+footer{
+    background-color: rgba(0, 0, 0, 0.903);
+    text-align: center;
+    padding:10px 0px;
+    margin-top: 20px;
+}
+.footer-h3{
+    color:tomato;
+    font-weight: bold;
+    font-family:'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
