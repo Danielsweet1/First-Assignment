@@ -2,7 +2,7 @@ body{
     box-sizing: border-box;
     margin: 0;
     font-family: 'Mukta', sans-serif;
-    background-color: rgba(240, 255, 255, 0.64);
+    background-color: rgba(240, 255, 255, 0.361);
 }
 
 /* styling first section */
@@ -84,6 +84,7 @@ body{
 
 input{
     font-size: 20px;
+    padding: 10px;
     text-align: center;
     border: none;
 }
